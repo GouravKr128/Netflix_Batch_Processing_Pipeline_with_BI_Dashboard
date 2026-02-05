@@ -1,4 +1,4 @@
-## **Netflix Content Analytics - E2E Data Engineering Project**
+## **Netflix Content Analytics - Batch Processing Pipeline with BI Dashboard**
 <br>
 
 ### **Overview**
