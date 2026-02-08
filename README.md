@@ -6,7 +6,7 @@
 - Managed data governance and access using Unity Catalog.
 
 ### **Tech Stack**
-Azure Data Factory, Azure Data Lake Storage Gen2, Databricks, PySpark, Delta Lake, Power BI
+Azure Data Factory, Azure Data Lake Storage Gen2, Databricks, PySpark, Unity Catalog, Delta Lake, Power BI
 
 ### **Description**
 
